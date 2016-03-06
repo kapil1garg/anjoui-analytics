@@ -2,7 +2,7 @@
 
 
 import postmates as pm
-api = pm.PostmatesAPI("84500435-3f4b-46e5-9e30-0fb17d2bca7d", "cus_KXKz5xu398LHVV")
+api = pm.PostmatesAPI("API_KEY", "API_KEY")
 
 address = ['2145 Sheridan Road, Evanston, IL', # Tech
 	'1870 Campus Dr, Evanston, IL', # McCormick Foundation Center (Medill Building)
